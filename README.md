@@ -30,7 +30,7 @@ NOMES DOS INTEGRANTES DO GRUPO
 
 
 URL DE ACESSO AO REPOSITÓRIO DE CÓDIGO-FONTE DO GRUPO
-https://github.com/globalz159/shopnow
+https://github.com/globalz159/ShopNow1
 URL DE ACESSO AO QUADRO DE ACOMPANHAMENTO DO PROJETO DO GRUPO
 ●	https://trello.com/invite/b/66f494cc67d0c8038c38d727/ATTI733e07ee50b33598ca96068e4283e659159BAD9F/shop-now
 ________________________________________
@@ -168,14 +168,14 @@ Caso de Uso 3: Pagamento
 3.	O usuário seleciona o método de pagamento (cartão de crédito, boleto, etc.).
 4.	O sistema processa o pagamento e confirma a compra.
 ________________________________________
-Wireframes
+11. Wireframes
  
 
  
-
-11. Conclusão
+________________________________________
+12. Conclusão
 O projeto ShopNow é uma solução de e-commerce robusta, projetada para oferecer uma experiência de compra eficiente e segura aos usuários. A arquitetura modular da plataforma permite sua escalabilidade e a fácil integração de novas funcionalidades no futuro. Com a implementação dos objetivos funcionais e não funcionais definidos, espera-se que a plataforma atenda às necessidades tanto dos consumidores quanto dos vendedores, tornando-se uma ferramenta essencial no ambiente de comércio eletrônico.
 ________________________________________
-12. Referências
+13. Referências
 ●	Sommerville, Ian. Software Engineering. Pearson, 2016.
 ●	Gamma, Erich, et al. Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley, 1994.
