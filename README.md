@@ -44,8 +44,8 @@ Sumário
 7.	Modelo de Domínio
 8.	Diagrama de classes de projeto
 9.	Diagrama de sequência de projeto
-10.	
-11.	Descrição Detalhada dos Casos de Uso Principais
+10.	Descrição Detalhada dos Casos de Uso Principais
+11.	Wireframe
 12.	Conclusão
 13.	Referências
 ________________________________________
@@ -179,3 +179,4 @@ ________________________________________
 13. Referências
 ●	Sommerville, Ian. Software Engineering. Pearson, 2016.
 ●	Gamma, Erich, et al. Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley, 1994.
+●	
